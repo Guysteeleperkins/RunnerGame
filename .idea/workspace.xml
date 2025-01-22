@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4d57ac4-e1cc-4bab-843d-bf2153376ea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RunnerGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Sky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jump.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/player_stand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/player_walk_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/player_walk_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="e4d57ac4-e1cc-4bab-843d-bf2153376ea8" name="Changes" comment="Started project, Added basic pygame start up code and added background images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +29,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737473096798</updated>
     </task>
+    <task id="LOCAL-00001" summary="Started project, Added basic pygame start up code and added background images">
+      <option name="closed" value="true" />
+      <created>1737543876050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737543876050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started project, Added basic pygame start up code and added background images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started project, Added basic pygame start up code and added background images" />
   </component>
 </project>
